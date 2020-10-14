@@ -1,0 +1,22 @@
+{
+  "name": "HHPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of HHPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/izhikang/HHPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "izhikang": "lishihua@tal.com"
+  },
+  "source": {
+    "git": "https://github.com/izhikang/HHPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HHPodTest/Classes/**/*"
+}

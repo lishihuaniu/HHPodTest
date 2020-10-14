@@ -1,0 +1,6 @@
+framework module HHPodTest {
+  umbrella header "HHPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

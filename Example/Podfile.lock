@@ -1,0 +1,16 @@
+PODS:
+  - HHPodTest (0.1.0)
+
+DEPENDENCIES:
+  - HHPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  HHPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HHPodTest: c2da52e22ab0eb642c37ff3b868e74b04acf1c87
+
+PODFILE CHECKSUM: c40df4d1f542429d268cc94a0b8d4d27255ad5b6
+
+COCOAPODS: 1.8.4
