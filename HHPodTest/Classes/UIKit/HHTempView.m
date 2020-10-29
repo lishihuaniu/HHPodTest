@@ -21,7 +21,7 @@
     self = [super initWithFrame:frame];
     {
         if (self) {
-            
+            NSLog(@"版本0.3.0发布");
         }
     }
     return self;
