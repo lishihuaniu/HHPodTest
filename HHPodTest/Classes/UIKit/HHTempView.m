@@ -22,6 +22,7 @@
     {
         if (self) {
             NSLog(@"版本0.3.0发布");
+            NSLog(@"版本0.4.0发布");
         }
     }
     return self;
